@@ -1,6 +1,6 @@
 package com.ciandt.feedfront;
 
-import com.ciandt.feedfront.employee.Employee;
+import com.ciandt.feedfront.models.Employee;
 import com.ciandt.feedfront.excecoes.ArquivoException;
 import com.ciandt.feedfront.excecoes.ComprimentoInvalidoException;
 import com.ciandt.feedfront.excecoes.EmailInvalidoException;
