@@ -1,4 +1,4 @@
-package com.ciandt.feedfront.employee;
+package com.ciandt.feedfront.models;
 
 
 import com.ciandt.feedfront.excecoes.ArquivoException;
